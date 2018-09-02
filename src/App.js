@@ -3,7 +3,11 @@ import Titles from "./components/Titles";
 import Form from "./components/Form";
 import Weather from "./components/Weather";
 
+// This is free key. Please get your own if you're looking to do this!
+
 const API_KEY = "83254d81c6da856b4955ed8dd61e595a";
+
+
 
 class App extends React.Component { 
 
